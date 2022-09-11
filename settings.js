@@ -11,7 +11,7 @@ global.APIs = {
 
 //API KEY\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': 'bd630684a3c0',
 }
 
 
@@ -21,7 +21,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autobio = false  // auto bio system checking on Developing Leval
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //VIDEO MENU 
@@ -36,30 +36,30 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
+global.vcardowner = ['94713587592'] //ur owner number
+global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ Kaushitha" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.location = "Sri Lanka, Colombo, Mlabe" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.ownertag = '94713587592' //ur tag number
+global.botnumber = '94713587592' //Add your Bot Number For Log
+global.botname = 'KAUSHITHA' //ur bot name
+global.ig = "https://youtu.be/uzMbW5v9LE" //your theme url which will be displayed on whatsapp
+global.myweb = "https://yotu.be/uMbW5v9QLE" //ur website to be displayed
+global.sc = 'https://github.com/darkalphteam' //script link
+global.linkz = 'https://youtu.buzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
 global.author = "DARK ALPHA" //ur sticker watermark author
 global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.aliveimg ="https://telegra.ph/file/1bf84a732587779ae23ed.jpg"
+global.allmenuimg ="https://telegra.ph/file/1bf84a732587779ae23ed.jpg"
+global.welcomeimg= "https://telegra.ph/file/0e6b3225a976f3d0c963c.jpg"
+global.gbyeimg = "https://telegra.ph/file/ae15f9c97370454b6759b.jpg"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
